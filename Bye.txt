@@ -1,1 +1,2 @@
 print("Goodbye,Human!")
+print("Fuc* you,Man")
