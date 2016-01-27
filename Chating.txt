@@ -1,1 +1,2 @@
 print("Hi, Human!")
+print("Hello,man!")
